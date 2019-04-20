@@ -1,0 +1,33 @@
+header {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+.panel-default > .panel-heading-custom {
+    background: #3498DB; 
+    color: #fff;
+}
+
+.panel-default {
+	border-color: #2980B9;
+}
+
+.panel-title {
+	color: #ECF0F1;
+}
+
+.jumbotron {
+	background-color: #2C3E50;
+	color: #ECF0F1;
+}
+
+.btn {
+	background-color: #2C3E50;
+}
+
+thead:first-child {background: #efefef}
+
+tr:nth-child(2n+2) {background: #E74C3C}
